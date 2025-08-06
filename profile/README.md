@@ -35,10 +35,10 @@ Ally360 se compone de microservicios independientes y aplicaciones frontend esca
 
 ### 💻 Aplicaciones Frontend
 
-| Repositorio           | Descripción                                             |
-|------------------------|---------------------------------------------------------|
-| `webapp-platform`      | App web para los clientes (tenants)                     |
-| `webapp-admin` *(propuesta)* | Panel administrativo para gestión de la plataforma   |
+| Repositorio             | Descripción                                          |
+|-------------------------|------------------------------------------------------|
+| `webapp-platform`       | App web para los clientes (tenants)                  |
+| `webapp-admin`          | Panel administrativo para gestión de la plataforma   |
 
 ---
 
@@ -65,24 +65,24 @@ Ally360 está diseñado especialmente para:
 
 ---
 
-## 📈 Planes y precios
+## 📈 Planes
 
-- **Esencial**: Desde $39.900 COP/mes
-- **Avanzado**: Desde $79.900 COP/mes
-- **Elite**: Desde $149.900 COP/mes
-- **Enterprise**: Plan personalizado
+- **Esencial**
+- **Avanzado**
+- **Elite**
+- **Enterprise**
 
-➡️ Más información en [ally360.co](https://ally360.co) *(en desarrollo)*
+➡️ Más información en [Ally360]([https://ally360.co](https://ally360.netlify.app/)) *(en desarrollo)*
 
 ---
 
 ## 🧠 Tecnologías utilizadas
 
 - **Frontend**: React, Material UI
-- **Backend**: NestJS + GraphQL
+- **Backend**: NestJS
 - **Auth**: Keycloak (OpenID Connect)
-- **Database**: PostgreSQL / MySQL
-- **Infraestructura**: Docker, CI/CD, arquitectura de microservicios
+- **Database**: PostgreSQL
+- **Infraestructura**: Docker, CI/CD, Arquitectura de Microservicios
 
 ---
 
@@ -96,8 +96,11 @@ Facilitar la transformación digital de miles de empresas en Colombia con una so
 
 Si eres desarrollador, contador, aliado estratégico o emprendedor interesado en digitalizar su negocio, contáctanos:
 
-📧 ally360erp@gmail.com  
-📍 Cali, Colombia
+📧 jpv288@gmail.com
+📍 Cali, Valle del Cauca, Colombia
+
+📧 danielestupinan0802@gmail.com
+📍 Pereira, Risaralda, Colombia
 
 ---
 
