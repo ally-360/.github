@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/logo/logoFondoTransparentesvg.svg" width="200" alt="Logo de Ally360">
+  <img src="https://ally360.netlify.app/logo/logoFondoTransparentesvg.svg" width="200" alt="Logo de Ally360">
 </p>
 
 <h1 align="center">Ally360 - Tu empresa a la mano</h1>
