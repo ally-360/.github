@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ally360/ally360-org/main/assets/ally360-logo.png" width="200" alt="Logo de Ally360">
+  <img src="/logo/logoFondoTransparentesvg.svg" width="200" alt="Logo de Ally360">
 </p>
 
 <h1 align="center">Ally360 - Tu empresa a la mano</h1>
