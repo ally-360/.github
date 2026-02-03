@@ -96,8 +96,6 @@ Facilitar la transformación digital de miles de empresas en Colombia con una so
 
 Si eres desarrollador, contador, aliado estratégico o emprendedor interesado en digitalizar su negocio, contáctanos:
 
-📧 jpv288@gmail.com
-📍 Cali, Valle del Cauca, Colombia
 
 📧 danielestupinan0802@gmail.com
 📍 Pereira, Risaralda, Colombia
